@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year PhD student in THUIR group, Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. Yiqun Liu. My major research interests are in Web Search Evaluation and User Behavior Model.
+I am now a third year PhD student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
 
 Recent Professional Activities
 ======
-* I serve as PC of IJCAI 2018, SIGIR 2018, as well as ICWSM 2018 (Dec. 2017).
-* Our paper "Towards Designing Better Session Search Evaluation Metrics." with Mengyang, Jiaxin, Prof. Yiqun LIU and Prof. Shaoping MA received Best Short Paper Honorable Mention at SIGIR 2018!
+* I serve as PC member of [SIGIR 2019](http://sigir.org/sigir2019/).
+* Our paper "Evaluating Web Search with a Bejeweled Player Model" won the Best Student Paper Award at [SIGIR 2017](http://sigir.org/sigir2017/)!
 
 Publications
 ======
