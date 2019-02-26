@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fan Zhang"
 title_separator          : "-"
 name                     : &name "Fan Zhang"
-description              : &description "PhD student at Tsinghua University"
+description              : &description "Ph.D. student at Tsinghua University"
 url                      : https://frankyZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frankyZhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "张帆"
   avatar           : "fan.jpg"
-  bio              : "PhD student at Tsinghua University"
+  bio              : "Ph.D. student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UIJxhUsAAAAJ"
