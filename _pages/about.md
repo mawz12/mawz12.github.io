@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Fan Zhang (张帆)"
+title: "About Me: Weizhi Ma (马为之)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
+I am now a Postdoctoral Research Associate in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
 
 Recent Professional Activities
 ======
-* I serve as PC member of [SIGIR 2019](http://sigir.org/sigir2019/).
-* Our paper ***"Evaluating Web Search with a Bejeweled Player Model"*** won the **Best Student Paper Award** at [SIGIR 2017](http://sigir.org/sigir2017/)!
+* I serve as PC member of [SIGIR 2018, 2019](http://sigir.org/sigir2019/).
+* I serve as a reviewer for TOIS, TNNLS.
 
 Publications
 ======
-* Yunqiu Shao, Yiqun Liu, ***Fan Zhang***, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**).
-* ***Fan Zhang***, Ke Zhou, Yunqiu Shao, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018**).
-* ***Fan Zhang***, Yiqun Liu, Xin Li, Min Zhang, Yinghui Xu and Shaoping Ma. Evaluating Web Search with a Bejeweled Player Model. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017 Best Student Paper Award**).
-* Cheng Luo, Yiqun Liu, Tetsuya Sakai, ***Fan Zhang***, Min Zhang and Shaoping Ma. Evaluating Mobile Search with Height-Biased Gain. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017**).
-* Cheng Luo, Yiqun Liu, Tetsuya Sakai, Ke Zhou, ***Fan Zhang***, Xue Li and Shaoping Ma. Does Document Relevance Affect the Searcher’s Perception of Time? The Tenth ACM International Conference on Web Search and Data Mining (**WSDM 2017**).
-* Cheng Luo, Xue Li, Yiqun Liu, Tetsuya Sakai, ***Fan Zhang***, Min Zhang and Shaoping Ma. Investigating Users’ Time Perception during Web Search. The 2nd ACM SIGIR Conference on Human Information Interaction & Retrieval (**CHIIR 2017**).
-* Cheng Luo, ***Fan Zhang***, Xue Li, Yiqun Liu, Min Zhang, Shaoping Ma. Manipulating Time Perception of Web Search Users. First ACM SIGIR Conference on Human Information Interaction and Retrieval (**CHIIR 2016**).
+## 2019
+* ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
+* Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Model- ing Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems (**theWebConf 2019**).
+* Hongyu Lu, Min Zhang, ***Weizhi Ma***, Yunqiu Shao, Yiqun Liu, and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming (**theWebConf 2019**).
+* Hongyu Lu, Min Zhang, Wezhi Ma, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin, and Shaoping Ma. Effects of User Negative Experience in Mobile News Streaming (**SIGIR 2019**).
+* Chong Chen, Min Zhang, Chenyang Wang, ***Weizhi Ma***, Minming Li, Yiqun Liu, and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation (**SIGIR 2019**).
+* ***Weizhi Ma***, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics (**NLPCC 2019**)
+
+## 2018
+* ***Weizhi Ma***, Min Zhang, Chenyang Wang, Cheng Luo, Yiqun Liu, and Shaoping Ma. Your Tweets Reveal What You Like: Introducing Cross-media Content Information into Multi-domain Recommendation (**IJCAI 2018**).
+
+## 2017
+* Bin Liu, Min Zhang, ***Weizhi Ma***, Xin Li, Yiqun Liu, and Shaoping Ma. A Two- step Information Accumulation Strategy for Learning from Highly Imbalanced Data (**CIKM 2017**).
+* Min Zhang, Biyuan Ding, ***Weizhi Ma***, Yunzhi Tan, Yiqun Liu, and Shaoping Ma. Hybrid recommendation approach enhanced by deep learning (Journal of Tsinghua University (Science and Technology)).
+
+## 2016
+* ***Weizhi Ma***, Min Zhang, Yiqun Liu, and Shaoping Ma. Multi-Grained Role La- beling Based on Multi-Modality Information for Real Customer Service Telephone Conversation (**IJCAI 2016**).
+* Bin Hao, Min Zhang, ***Weizhi Ma***, Jiashen Sun, Yiqun Liu, Shaoping Ma, Xuan Zhu, and Hengliang Luo. Finding the True Crowds: User Filtering in Microblogs (**NLPCC 2016**).
+
+* ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma, and Linfeng Chen. Beyond Your Interests: Exploring the Information Behind User Tags (**NLPCC 2015**).
+
+
+
+
