@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a Postdoctoral Research Fellow in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My major research interests are in Recommender System, User Modeling, and Information Retrieval.
 
-I got my PhD degree from Tsinghua University in 2019, supervised by Prof. Shaoping Ma, Prof. Min Zhang, and Prof. Yiqun Liu, I was a Visiting Research Fellow from Feb. 2018 to Jun. 2018 at INK Research Lab, University of Southern California, supervised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). I have visited University College London for two month, supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and visited [NExT Center](http://www.nextcenter.org) for three month, supervised by [Prof. Chua Tat-seng](https://www.chuatatseng.com).
+I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaoping Ma](http://www.thuir.cn/group/~msp/), [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/), and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/), I was a Visiting Research Fellow from Feb. 2018 to Jun. 2018 at INK Research Lab, University of Southern California, supervised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). I have visited University College London for two month, supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and visited [NExT Center](http://www.nextcenter.org) for three month, supervised by [Prof. Chua Tat-seng](https://www.chuatatseng.com).
 
 
 Recent Professional Activities
