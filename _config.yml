@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan Zhang"
+title                    : "Weizhi Ma"
 title_separator          : "-"
-name                     : &name "Fan Zhang"
-description              : &description "Ph.D. student at Tsinghua University"
-url                      : https://frankyZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Weizhi Ma"
+description              : &description "Postdoctoral Research Associate, Dept.of Computer Science & Technology, Tsinghua University"
+url                      : https://mawz12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "frankyZhang.github.io"
+repository               : "mawz12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "张帆"
+  name             : "马为之"
   avatar           : "fan.jpg"
-  bio              : "Ph.D. student at Tsinghua University"
+  bio              : "Postdoctoral Research Associate, Dept.of Computer Science & Technology, Tsinghua University"
   location         : "Beijing, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=UIJxhUsAAAAJ"
-  email            : "frankyzf94@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=FO3lHi4AAAAJ"
+  email            : "mawz12@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "frankyZhang"
+  github           : "mawz12"
   google_plus      :
   keybase          :
   instagram        :
