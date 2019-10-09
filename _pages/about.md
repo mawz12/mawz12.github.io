@@ -24,7 +24,7 @@ Selected Publications
 * ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
 * Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Model- ing Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems (**theWebConf 2019**).
 * Hongyu Lu, Min Zhang, ***Weizhi Ma***, Yunqiu Shao, Yiqun Liu, and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming (**theWebConf 2019**).
-* Hongyu Lu, Min Zhang, Wezhi Ma, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin, and Shaoping Ma. Effects of User Negative Experience in Mobile News Streaming (**SIGIR 2019**).
+* Hongyu Lu, Min Zhang, ***Weizhi Ma***, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin, and Shaoping Ma. Effects of User Negative Experience in Mobile News Streaming (**SIGIR 2019**).
 * Chong Chen, Min Zhang, Chenyang Wang, ***Weizhi Ma***, Minming Li, Yiqun Liu, and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation (**SIGIR 2019**).
 * ***Weizhi Ma***, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics (**NLPCC 2019**)
 
