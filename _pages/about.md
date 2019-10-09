@@ -33,7 +33,7 @@ Selected Publications
 
 ## IN THE YEAR OF 2017:
 * Bin Liu, Min Zhang, ***Weizhi Ma***, Xin Li, Yiqun Liu, and Shaoping Ma. A Two- step Information Accumulation Strategy for Learning from Highly Imbalanced Data (**CIKM 2017**).
-* Min Zhang, Biyuan Ding, ***Weizhi Ma***, Yunzhi Tan, Yiqun Liu, and Shaoping Ma. Hybrid recommendation approach enhanced by deep learning (Journal of Tsinghua University (Science and Technology)).
+* Min Zhang, Biyuan Ding, ***Weizhi Ma***, Yunzhi Tan, Yiqun Liu, and Shaoping Ma. Hybrid recommendation approach enhanced by deep learning (**Journal of Tsinghua University (Science and Technology)**).
 
 ## IN THE YEAR OF 2016 and Before:
 * ***Weizhi Ma***, Min Zhang, Yiqun Liu, and Shaoping Ma. Multi-Grained Role La- beling Based on Multi-Modality Information for Real Customer Service Telephone Conversation (**IJCAI 2016**).
