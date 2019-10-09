@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Postdoctoral Research Associate in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
+I am now a Postdoctoral Research Fellow in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My major research interests are in Recommender System, User Modeling, and Information Retrieval.
+
+I got my PhD degree from Tsinghua University in 2019, supervised by Prof. Shaoping Ma, Prof. Min Zhang, and Prof. Yiqun Liu, I was a Visiting Research Fellow from Feb. 2018 to Jun. 2018 at INK Research Lab, University of Southern California, supervised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). I have visited University College London for two month, supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and visited [NExT Center](http://www.nextcenter.org) for three month, supervised by [Prof. Chua Tat-seng](https://www.chuatatseng.com).
+
 
 Recent Professional Activities
 ======
-* I serve as PC member of [SIGIR 2018, 2019](http://sigir.org/sigir2019/).
-* I serve as a reviewer for TOIS, TNNLS.
+* I serve as PC member of SIGIR 2018, 2019.
+* I serve as a reviewer for TOIS and TNNLS.
 
-Publications
+Selected Publications
 ======
-## 2019
+## IN THE YEAR OF 2019:
 * ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
 * Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Model- ing Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems (**theWebConf 2019**).
 * Hongyu Lu, Min Zhang, ***Weizhi Ma***, Yunqiu Shao, Yiqun Liu, and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming (**theWebConf 2019**).
@@ -25,17 +28,16 @@ Publications
 * Chong Chen, Min Zhang, Chenyang Wang, ***Weizhi Ma***, Minming Li, Yiqun Liu, and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation (**SIGIR 2019**).
 * ***Weizhi Ma***, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics (**NLPCC 2019**)
 
-## 2018
+## IN THE YEAR OF 2018:
 * ***Weizhi Ma***, Min Zhang, Chenyang Wang, Cheng Luo, Yiqun Liu, and Shaoping Ma. Your Tweets Reveal What You Like: Introducing Cross-media Content Information into Multi-domain Recommendation (**IJCAI 2018**).
 
-## 2017
+## IN THE YEAR OF 2017:
 * Bin Liu, Min Zhang, ***Weizhi Ma***, Xin Li, Yiqun Liu, and Shaoping Ma. A Two- step Information Accumulation Strategy for Learning from Highly Imbalanced Data (**CIKM 2017**).
 * Min Zhang, Biyuan Ding, ***Weizhi Ma***, Yunzhi Tan, Yiqun Liu, and Shaoping Ma. Hybrid recommendation approach enhanced by deep learning (Journal of Tsinghua University (Science and Technology)).
 
-## Before 2016
+## IN THE YEAR OF 2016 and Before:
 * ***Weizhi Ma***, Min Zhang, Yiqun Liu, and Shaoping Ma. Multi-Grained Role La- beling Based on Multi-Modality Information for Real Customer Service Telephone Conversation (**IJCAI 2016**).
 * Bin Hao, Min Zhang, ***Weizhi Ma***, Jiashen Sun, Yiqun Liu, Shaoping Ma, Xuan Zhu, and Hengliang Luo. Finding the True Crowds: User Filtering in Microblogs (**NLPCC 2016**).
-
 * ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma, and Linfeng Chen. Beyond Your Interests: Exploring the Information Behind User Tags (**NLPCC 2015**).
 
 
