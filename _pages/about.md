@@ -15,7 +15,7 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
-* I serve as PC member of SIGIR 2018, 2019, theWebConf 2020 (In both Web Mining & Content Analysis and Search Tracks).
+* I serve as PC member of SIGIR 2018, 2019, theWebConf 2020, CIKM 2020.
 * I serve as a reviewer for TOIS, TNNLS, and JCST.
 
 Selected Publications
