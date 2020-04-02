@@ -21,7 +21,8 @@ Recent Professional Activities
 Selected Publications
 ======
 ## IN THE YEAR OF 2020:
-* Chong Chen, Min Zhang, Yongfeng Zhang, ***Weizhi Ma***, Yiqun Liu, Shaoping Ma. Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation (**accepted by AAAI 2020**).
+* Chong Chen, Min Zhang, Weizhi Ma, Yiqun Liu, and Shaoping Ma. Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation (**Accepted by theWebConf 2019**).
+* Chong Chen, Min Zhang, Yongfeng Zhang, ***Weizhi Ma***, Yiqun Liu, Shaoping Ma. Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation (**AAAI 2020**).
 
 ## IN THE YEAR OF 2019:
 * ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
