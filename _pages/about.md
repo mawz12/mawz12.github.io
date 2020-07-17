@@ -21,6 +21,8 @@ Recent Professional Activities
 Selected Publications
 ======
 ## IN THE YEAR OF 2020:
+* Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**Accepted by CIKM 2020**).
+* Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**Accepted by CIKM 2020**).
 * Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**Accepted by SIGIR 2020**).
 * Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation (**Accepted by SIGIR 2020**).
 * Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation (**Accepted by SIGIR 2020**).
