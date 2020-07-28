@@ -15,6 +15,7 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
+* I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, CIKM 2020, COLING 2020, ICTIR 2020.
 * I serve as a reviewer for TOIS, TNNLS, FCS, and JCST.
 
