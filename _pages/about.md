@@ -24,12 +24,12 @@ Selected Publications
 ## IN THE YEAR OF 2020:
 * Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**Accepted by CIKM 2020**).
 * Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**Accepted by CIKM 2020**).
-* Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**Accepted by SIGIR 2020**).
-* Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation (**Accepted by SIGIR 2020**).
-* Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation (**Accepted by SIGIR 2020**).
-* Fan Zhang, Jiaxin Mao, Yiqun Liu, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Cascade or Recency: Constructing Better Evaluation Metrics for Session Search (**Accepted by SIGIR 2020**).
-* Fan Zhang, Jiaxin Mao, Yiqun Liu, Xiaohui Xie, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics (**Accepted by SIGIR 2020**).
-* Yunqiu Shao, Jiaxin Mao, Yiqun Liu, ***Weizhi Ma*** Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval (**Accepted by IJCAI 2020**).
+* Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**SIGIR 2020**).
+* Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation (**SIGIR 2020**).
+* Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation (**SIGIR 2020**).
+* Fan Zhang, Jiaxin Mao, Yiqun Liu, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Cascade or Recency: Constructing Better Evaluation Metrics for Session Search (**SIGIR 2020**).
+* Fan Zhang, Jiaxin Mao, Yiqun Liu, Xiaohui Xie, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics (**SIGIR 2020, Best paper honorable mention**).
+* Yunqiu Shao, Jiaxin Mao, Yiqun Liu, ***Weizhi Ma*** Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval (**IJCAI 2020**).
 * Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation (**theWebConf 2020**).
 * Chong Chen, Min Zhang, Yongfeng Zhang, ***Weizhi Ma***, Yiqun Liu, Shaoping Ma. Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation (**AAAI 2020**).
 
