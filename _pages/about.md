@@ -15,15 +15,17 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
+* I was funded by China Postdoctoral Science Foundation at 2020.
+* I was supported by Shuimu Tsinghua Scholar Program at 2019.
 * I serve as a web master for the virtual conference of SIGIR 2020.
-* I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, CIKM 2020, COLING 2020, ICTIR 2020.
+* I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021.
 * I serve as a reviewer for TOIS, TNNLS, FCS, and JCST.
 
 Selected Publications
 ======
 ## IN THE YEAR OF 2020:
-* Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**Accepted by CIKM 2020**).
-* Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**Accepted by CIKM 2020**).
+* Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**CIKM 2020**).
+* Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**CIKM 2020**).
 * Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**SIGIR 2020**).
 * Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation (**SIGIR 2020**).
 * Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation (**SIGIR 2020**).
@@ -32,6 +34,8 @@ Selected Publications
 * Yunqiu Shao, Jiaxin Mao, Yiqun Liu, ***Weizhi Ma*** Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval (**IJCAI 2020**).
 * Chong Chen, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation (**theWebConf 2020**).
 * Chong Chen, Min Zhang, Yongfeng Zhang, ***Weizhi Ma***, Yiqun Liu, Shaoping Ma. Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation (**AAAI 2020**).
+* Zhen Wang, ***Weizhi Ma***, Min Zhang, Weipeng Chen, Jingfang Xu, Yiqun Liu, and Shaoping Ma. Incorporating Knowledge and Content Information to Boost News Recommendation (**NLPCC 2020**).
+* Bin Hao, Min Zhang, ***Weizhi Ma***, Shaoyun Shi, Xinxing Yu, Houzhi Shan, Yiqun Liu, and Shaoping Ma. Negative Feedback Aware Hybrid Sequential Neural Recommendation Model (**NLPCC 2020**).
 
 ## IN THE YEAR OF 2019:
 * ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
