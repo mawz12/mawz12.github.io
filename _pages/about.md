@@ -15,12 +15,16 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
-* I am funded by China Postdoctoral Science Foundation in 2020.
-* I am supported by Shuimu Tsinghua Scholar Program in 2019.
 * I serve as an assitant for ACM TOIS.
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, IJCAI 2021.
-* I serve as a reviewer for TOIS, TNNLS, FCS, and JCST.
+* I serve as a reviewer for TOIS, TNNLS, FCS, TIST, and JCST.
+
+Foundations
+======
+* I am funded by National Natural Science Foundation of China in 2020.
+* I am funded by China Postdoctoral Science Foundation in 2020.
+* I am supported by Shuimu Tsinghua Scholar Program in 2019.
 
 Selected Publications
 ======
