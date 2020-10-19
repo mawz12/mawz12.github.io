@@ -28,8 +28,11 @@ Foundations
 
 Selected Publications
 ======
+## IN THE YEAR OF 2021:
+* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Chuancheng Lv, Fengyuan Wan, Huijie Lin, Taoran Tang, Yiqun Liu and Shaoping Ma. Temporal Cross-Effects in Knowledge Tracing (**WSDM 2021**).
+
 ## IN THE YEAR OF 2020:
-* Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**CIKM 2020**).
+* Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logical Prediction (**CIKM 2020**). 
 * Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**CIKM 2020**).
 * Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**SIGIR 2020**).
 * Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu and Shaoping Ma. Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation (**SIGIR 2020**).
