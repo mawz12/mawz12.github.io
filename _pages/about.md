@@ -17,7 +17,8 @@ Recent Professional Activities
 ======
 * I serve as an assitant for ACM TOIS.
 * I serve as a web master for the virtual conference of SIGIR 2020.
-* I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, IJCAI 2021.
+* I serve as SPC member of IJCAI 2021.
+* I serve as PC member of SIGIR 2018, 2019, 2020, theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021.
 * I serve as a reviewer for TOIS, TNNLS, FCS, TIST, and JCST.
 
 Foundations
@@ -29,10 +30,11 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2021:
-* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Chuancheng Lv, Fengyuan Wan, Huijie Lin, Taoran Tang, Yiqun Liu and Shaoping Ma. Temporal Cross-Effects in Knowledge Tracing (**WSDM 2021**).
+* Chong Chen, ***Weizhi Ma***, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu, Shaoping Ma. Graph Heterogeneous Multi-Relational Recommendation (**AAAI 2021, accepted**).
+* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Chuancheng Lv, Fengyuan Wan, Huijie Lin, Taoran Tang, Yiqun Liu and Shaoping Ma. Temporal Cross-Effects in Knowledge Tracing (**WSDM 2021, accepted**).
 
 ## IN THE YEAR OF 2020:
-* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation (**TOIS**).
+* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation (**TOIS, accepted**).
 * Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logic Reasoning (**CIKM 2020**). 
 * Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**CIKM 2020**).
 * Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**SIGIR 2020**).
