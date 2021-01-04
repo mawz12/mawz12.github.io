@@ -19,7 +19,7 @@ Recent Professional Activities
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as SPC member of IJCAI 2021.
 * I serve as PC member of SIGIR 2018, 2019, 2020, 2021 theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021.
-* I serve as a reviewer for TOIS, TNNLS, FCS, TIST, and JCST.
+* I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, and JCST.
 
 Foundations
 ======
