@@ -32,9 +32,11 @@ Selected Publications
 ## IN THE YEAR OF 2021:
 * Chong Chen, ***Weizhi Ma***, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu, Shaoping Ma. Graph Heterogeneous Multi-Relational Recommendation (**AAAI 2021, accepted**).
 * Chenyang Wang, ***Weizhi Ma***, Min Zhang, Chuancheng Lv, Fengyuan Wan, Huijie Lin, Taoran Tang, Yiqun Liu and Shaoping Ma. Temporal Cross-Effects in Knowledge Tracing (**WSDM 2021, accepted**).
+* Xiangsheng Li, Jiaxin Mao, ***Weizhi Ma***, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation (**theWebConf 2021, accepted**).
+* Jia Chen, Jiaxin Mao, Yiqun Liu, Ziyi Ye, ***Weizhi Ma***, Chao Wang, Min Zhang, Shaoping Ma. A Hybrid Framework for Session Context Modeling (**TOIS, accepted**).
 
 ## IN THE YEAR OF 2020:
-* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation (**TOIS, accepted**).
+* Chenyang Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation (**TOIS**).
 * Shaoyun Shi, Hanxiong Chen, ***Weizhi Ma***, Jiaxin Mao, Min Zhang and Yongfeng Zhang. Neural Logic Reasoning (**CIKM 2020**). 
 * Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information (**CIKM 2020**).
 * Shaoyun Shi, ***Weizhi Ma***, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu and Shaoping Ma. Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation (**SIGIR 2020**).
