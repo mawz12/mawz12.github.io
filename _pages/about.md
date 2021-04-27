@@ -15,10 +15,10 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
-* I serve as an assitant for ACM TOIS.
+* I serve as an assitant for ACM TOIS from July, 2020.
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as SPC member of IJCAI 2021.
-* I serve as PC member of SIGIR 2018, 2019, 2020, 2021 theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021.
+* I serve as PC member of SIGIR 2018, 2019, 2020, 2021 theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021, EMNLP 2021.
 * I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, and JCST.
 
 Foundations
@@ -30,10 +30,12 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2021:
+* Hongyu Lu, ***Weizhi Ma***, Min Zhang, Maarten de Rijke, Yiqun Liu and Shaoping Ma. Standing in Your Shoes: External Assessments for Personalized Recommender Systems (**SIGIR 2021, accepted**)
 * Chong Chen, ***Weizhi Ma***, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu, Shaoping Ma. Graph Heterogeneous Multi-Relational Recommendation (**AAAI 2021, accepted**).
 * Chenyang Wang, ***Weizhi Ma***, Min Zhang, Chuancheng Lv, Fengyuan Wan, Huijie Lin, Taoran Tang, Yiqun Liu and Shaoping Ma. Temporal Cross-Effects in Knowledge Tracing (**WSDM 2021, accepted**).
 * Xiangsheng Li, Jiaxin Mao, ***Weizhi Ma***, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation (**theWebConf 2021, accepted**).
 * Jia Chen, Jiaxin Mao, Yiqun Liu, Ziyi Ye, ***Weizhi Ma***, Chao Wang, Min Zhang, Shaoping Ma. A Hybrid Framework for Session Context Modeling (**TOIS, accepted**).
+* Xiangsheng Li, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Investigating Session Search Behavior with Knowledge Graphs (**SIGIR 2021, short paper, accepted**)
 
 ## IN THE YEAR OF 2020:
 * Chenyang Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation (**TOIS**).
