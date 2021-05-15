@@ -18,7 +18,7 @@ Recent Professional Activities
 * I serve as an assitant for ACM TOIS from July, 2020.
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as SPC member of IJCAI 2021.
-* I serve as PC member of SIGIR 2018, 2019, 2020, 2021 theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021, EMNLP 2021.
+* I serve as PC member of SIGIR 2018, 2019, 2020, 2021, theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021, EMNLP 2021.
 * I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, and JCST.
 
 Foundations
@@ -53,8 +53,8 @@ Selected Publications
 * Bin Hao, Min Zhang, ***Weizhi Ma***, Shaoyun Shi, Xinxing Yu, Houzhi Shan, Yiqun Liu, and Shaoping Ma. Negative Feedback Aware Hybrid Sequential Neural Recommendation Model (**NLPCC 2020**).
 
 ## IN THE YEAR OF 2019:
-* ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommen- dation with Knowledge Graph (**theWebConf 2019**).
-* Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Model- ing Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems (**theWebConf 2019**).
+* ***Weizhi Ma***, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, and Xiang Ren. Jointly Learning Explainable Rules for Recommendation with Knowledge Graph (**theWebConf 2019**).
+* Chenyang Wang, Min Zhang, ***Weizhi Ma***, Yiqun Liu, and Shaoping Ma. Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems (**theWebConf 2019**).
 * Hongyu Lu, Min Zhang, ***Weizhi Ma***, Yunqiu Shao, Yiqun Liu, and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming (**theWebConf 2019**).
 * Hongyu Lu, Min Zhang, ***Weizhi Ma***, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin, and Shaoping Ma. Effects of User Negative Experience in Mobile News Streaming (**SIGIR 2019**).
 * Chong Chen, Min Zhang, Chenyang Wang, ***Weizhi Ma***, Minming Li, Yiqun Liu, and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation (**SIGIR 2019**).
