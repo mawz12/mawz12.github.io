@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weizhi Ma"
 title_separator          : "-"
 name                     : &name "Weizhi Ma"
-description              : &description "Postdoctoral Research Fellow, Dept.of Computer Science & Technology, Tsinghua University"
+description              : &description "Research Assistant Professor, Institute for AI Industry Research (AIR), Tsinghua University"
 url                      : https://mawz12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mawz12.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "马为之"
   avatar           : "weizhima.jpg"
-  bio              : "Postdoctoral Research Fellow, Dept.of Computer Science & Technology, Tsinghua University"
+  bio              : "Research Assistant Professor, Institute for AI Industry Research (AIR), Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=FO3lHi4AAAAJ"
