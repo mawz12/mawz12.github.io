@@ -30,7 +30,7 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2021:
-* Jun Yang, Weizhi Ma, Min Zhang, Xin Zhou, Yiqun Liu, Shaoping Ma. LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation. (**TOIS**)
+* Jun Yang, ***Weizhi Ma***, Min Zhang, Xin Zhou, Yiqun Liu, Shaoping Ma. LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation. (**TOIS**)
 * Shaoyun Shi, ***Weizhi Ma***, Zhen Wang, Min Zhang, Kun Fang, Jingfang Xu, Yiqun Liu and Shaoping Ma. WG4Rec: Modeling Textual Content with Word Graph for News Recommendation. (**CIKM 2021**)
 * Jia Chen, Yiqun Liu, Jiaxin Mao, Fan Zhang, Tetsuya Sakai, ***Weizhi Ma***, Min Zhang and Shaoping Ma. Incorporating Query Reformulating Behavior into Web Search Evaluation. (**CIKM 2021**)
 * Jiayu Li, ***Weizhi Ma***, Min Zhang, Pengyu Wang, Yiqun Liu and Shaoping Ma. Know Yourself: Physical and Psychological Self-Awareness With Lifelog. (**Frontiers in Digital Health**)
