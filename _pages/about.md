@@ -18,17 +18,23 @@ Recent Professional Activities
 * I serve as an assitant for ACM TOIS from July, 2020.
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as SPC member of IJCAI 2021.
-* I serve as PC member of SIGIR 2018, 2019, 2020, 2021, theWebConf 2020, 2021, CIKM 2020, COLING 2020, ICTIR 2020, WSDM 2021, AAAI 2021, KDD 2021, EMNLP 2021.
+* I serve as PC member of SIGIR 2018-2022, theWebConf 2020-2022, CIKM 2020-2022, COLING 2020-2022, ICTIR 2020, WSDM 2021, 2022, AAAI 2021, 2022, KDD 2021, 2022, EMNLP 2021.
 * I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, and JCST.
 
 Foundations
 ======
+* I am supported by Scholar of Young Talent Promoting Project of CAST in 2022.
 * I am funded by National Natural Science Foundation of China in 2020.
 * I am funded by China Postdoctoral Science Foundation in 2020.
 * I am supported by Shuimu Tsinghua Scholar Program in 2019.
 
 Selected Publications
 ======
+## IN THE YEAR OF 2022:
+* Chenyang Wang, ***Weizhi Ma***, Chong Chen, Min Zhang, Yiqun Liu, Shaoping Ma. Sequential Recommendation with Multiple Contrast Signals. (**TOIS**)
+* Chong Chen, ***Weizhi Ma***, Min Zhang, Chenyang Wang, Yiqun Liu, Shaoping Ma. Revisiting Negative Sampling VS. Non-Sampling in Implicit Recommendation. (**TOIS**)
+* Xiangsheng Li, Jiaxin Mao, ***Weizhi Ma***, Zhijing Wu, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang, Xiuqiang He. A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation. (**WSDM 2022**)
+
 ## IN THE YEAR OF 2021:
 * Jun Yang, ***Weizhi Ma***, Min Zhang, Xin Zhou, Yiqun Liu, Shaoping Ma. LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation. (**TOIS**)
 * Shaoyun Shi, ***Weizhi Ma***, Zhen Wang, Min Zhang, Kun Fang, Jingfang Xu, Yiqun Liu and Shaoping Ma. WG4Rec: Modeling Textual Content with Word Graph for News Recommendation. (**CIKM 2021**)
