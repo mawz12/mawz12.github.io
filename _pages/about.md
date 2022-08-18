@@ -31,6 +31,12 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2022:
+* Mingze Sun, ***Weizhi Ma***, Yang Liu. Global and Local Feature Interaction with Vision Transformer for Few-shot Image Classification. (**CIKM 2022**)
+* Yuancheng Sun, Yimeng Chen, ***Weizhi Ma***, Wenhao Huang, Kang Liu, Zhiming Ma, Wei-Ying Ma, Yanyan Lan. PEMP: Leveraging Physics Properties to Enhance Molecular Property Prediction. (**CIKM 2022**)
+* Chenyang Wang, Zhefan Wang, Yankai Liu, Yang Ge, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Junlan Feng, Chao Deng and Shaoping Ma. Target Interest Distillation for Multi-Interest Recommendation. (**CIKM 2022**)
+* Yangkun Li, ***Weizhi Ma***, Chong Chen, Min Zhang, Yiqun Liu, Shaoping Ma, Yuekui Yang. A Survey on Dropout Methods and Experimental Verification in Recommendation. (**TKDE**)
+* Jiayin Wang, ***Weizhi Ma***, Jiayu Li, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaopin Ma. Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution. (**KDD 2022**)
+* Chenyang Wang, Yuanqing Yu, ***Weizhi Ma***, Min Zhang, Chong Chen, Yiqun Liu, Shaoping Ma. Towards Representation Alignment and Uniformity in Collaborative Filtering. (**KDD 2022**)
 * Chenyang Wang, ***Weizhi Ma***, Chong Chen, Min Zhang, Yiqun Liu, Shaoping Ma. Sequential Recommendation with Multiple Contrast Signals. (**TOIS**)
 * Chong Chen, ***Weizhi Ma***, Min Zhang, Chenyang Wang, Yiqun Liu, Shaoping Ma. Revisiting Negative Sampling VS. Non-Sampling in Implicit Recommendation. (**TOIS**)
 * Xiangsheng Li, Jiaxin Mao, ***Weizhi Ma***, Zhijing Wu, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang, Xiuqiang He. A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation. (**WSDM 2022**)
