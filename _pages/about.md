@@ -31,8 +31,12 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2023:
+* Hongyu Lu, ***Weizhi Ma***, Yifan Wang, Min Zhang, Xiang Wang, Yiqun Liu, Tat-Seng Chua, Shaoping Ma. User Perception of Recommendation Explanation: Are Your Explanations What Users Need? (**TOIS**)
+* Yifan Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma. A survey on the fairness of recommender systems. (**TOIS**)
+* Junqi Zhang, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Jiazheng Xu, Shaoping Ma, Qi Tian. User Behavior Simulation for Search Result Re-Ranking. (**TOIS**)
 * Jiayin Wang, ***Weizhi Ma***, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, and Peng Jiang. Measuring Item Global Residual Value for Fair Recommendation. (**SIGIR 2023**)
 * Jiayu Li, Peijie Sun, Zhefan Wang, ***Weizhi Ma***, Yangkun Li, Min Zhang, Zhoutian Feng, and Daiyue Xue. Intent-aware Ranking Ensemble for Personalized Recommendation. (**SIGIR 2023**)
+* Jiayu Li, Zhiyu He, Min Zhang, ***Weizhi Ma***, Ye Jin, Lei Zhang, Shuyang Zhang, Yiqun Liu, Shaoping Ma. Estimating Rare Diseases Incidences with Large-scale Internet Search Data: Two-step Machine Learning Method. (**JMIR Infodemiology**)
 
 ## IN THE YEAR OF 2022:
 * Mingze Sun, ***Weizhi Ma***, Yang Liu. Global and Local Feature Interaction with Vision Transformer for Few-shot Image Classification. (**CIKM 2022**)
