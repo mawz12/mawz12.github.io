@@ -30,6 +30,10 @@ Foundations
 
 Selected Publications
 ======
+## IN THE YEAR OF 2023:
+* Jiayin Wang, ***Weizhi Ma***, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, and Peng Jiang. Measuring Item Global Residual Value for Fair Recommendation. (**SIGIR 2023**)
+* Jiayu Li, Peijie Sun, Zhefan Wang, ***Weizhi Ma***, Yangkun Li, Min Zhang, Zhoutian Feng, and Daiyue Xue. Intent-aware Ranking Ensemble for Personalized Recommendation. (**SIGIR 2023**)
+
 ## IN THE YEAR OF 2022:
 * Mingze Sun, ***Weizhi Ma***, Yang Liu. Global and Local Feature Interaction with Vision Transformer for Few-shot Image Classification. (**CIKM 2022**)
 * Yuancheng Sun, Yimeng Chen, ***Weizhi Ma***, Wenhao Huang, Kang Liu, Zhiming Ma, Wei-Ying Ma, Yanyan Lan. PEMP: Leveraging Physics Properties to Enhance Molecular Property Prediction. (**CIKM 2022**)
