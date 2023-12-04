@@ -15,11 +15,11 @@ I got my PhD degree from Tsinghua University in 2019, supervised by [Prof. Shaop
 
 Recent Professional Activities
 ======
-* I serve as an assitant for ACM TOIS from July, 2020.
+* I serve as an assitant editor for ACM TOIS from July, 2020.
 * I serve as a web master for the virtual conference of SIGIR 2020.
 * I serve as SPC member of IJCAI 2021.
-* I serve as PC member of SIGIR 2018-2022, theWebConf 2020-2022, CIKM 2020-2022, COLING 2020-2022, ICTIR 2020, WSDM 2021, 2022, AAAI 2021, 2022, KDD 2021, 2022, EMNLP 2021.
-* I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, and JCST.
+* I serve as PC member of SIGIR 2018-, theWebConf 2020-, CIKM 2020-, COLING 2020-, WSDM 2021-, AAAI 2021-, KDD 2021-, EMNLP 2021-, etc.
+* I serve as a reviewer for TOIS, TKDE, TNNLS, FCS, TIST, JCST, etc.
 
 Foundations
 ======
@@ -31,6 +31,9 @@ Foundations
 Selected Publications
 ======
 ## IN THE YEAR OF 2023:
+* Shenghao Yang, Chenyang Wang, Yankai Liu, Kangping Xu, ***Weizhi Ma***, Yiqun Liu, Min Zhang, Haitao Zeng, Junlan Feng, Chao Deng. Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation. (**ICDM 2023**)
+* Chenyang Wang, Yankai Liu, Yuanqing Yu, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Haitao Zeng, Junlan Feng, Chao Deng. Two-sided Calibration for Quality-aware Responsible Recommendation. (**RecSys 2023**)
+* Qingyao Ai, Ting Bai, Zhao Cao, Yi Chang, Jiawei Chen, Zhumin Chen, Zhiyong Cheng, Shoubin Dong, Zhicheng Dou, Fuli Feng, Shen Gao, Jiafeng Guo, Xiangnan He, Yanyan Lan, Chenliang Li, Yiqun Liu, Ziyu Lyu, ***Weizhi Ma***, Jun Ma, Zhaochun Ren, Pengjie Ren, Zhiqiang Wang, Mingwen Wang, Ji-Rong Wen, Le Wu, Xin Xin, Jun Xu, Dawei Yin, Peng Zhang, Fan Zhang, Weinan Zhang, Min Zhang, Xiaofei Zhu. Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community. (**AI Open**)
 * Hongyu Lu, ***Weizhi Ma***, Yifan Wang, Min Zhang, Xiang Wang, Yiqun Liu, Tat-Seng Chua, Shaoping Ma. User Perception of Recommendation Explanation: Are Your Explanations What Users Need? (**TOIS**)
 * Yifan Wang, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma. A survey on the fairness of recommender systems. (**TOIS**)
 * Junqi Zhang, Yiqun Liu, Jiaxin Mao, ***Weizhi Ma***, Jiazheng Xu, Shaoping Ma, Qi Tian. User Behavior Simulation for Search Result Re-Ranking. (**TOIS**)
