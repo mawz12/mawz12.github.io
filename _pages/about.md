@@ -88,14 +88,10 @@ Selected Publications
 * Chong Chen, Min Zhang, Chenyang Wang, ***Weizhi Ma***, Minming Li, Yiqun Liu, and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation (**SIGIR 2019**).
 * ***Weizhi Ma***, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics (**NLPCC 2019**)
 
-## IN THE YEAR OF 2018:
+## IN THE YEAR OF 2018 and Before:
 * ***Weizhi Ma***, Min Zhang, Chenyang Wang, Cheng Luo, Yiqun Liu, and Shaoping Ma. Your Tweets Reveal What You Like: Introducing Cross-media Content Information into Multi-domain Recommendation (**IJCAI 2018**).
-
-## IN THE YEAR OF 2017:
 * Bin Liu, Min Zhang, ***Weizhi Ma***, Xin Li, Yiqun Liu, and Shaoping Ma. A Two- step Information Accumulation Strategy for Learning from Highly Imbalanced Data (**CIKM 2017**).
 * Min Zhang, Biyuan Ding, ***Weizhi Ma***, Yunzhi Tan, Yiqun Liu, and Shaoping Ma. Hybrid recommendation approach enhanced by deep learning (**Journal of Tsinghua University (Science and Technology)**).
-
-## IN THE YEAR OF 2016 and Before:
 * ***Weizhi Ma***, Min Zhang, Yiqun Liu, and Shaoping Ma. Multi-Grained Role La- beling Based on Multi-Modality Information for Real Customer Service Telephone Conversation (**IJCAI 2016**).
 * Bin Hao, Min Zhang, ***Weizhi Ma***, Jiashen Sun, Yiqun Liu, Shaoping Ma, Xuan Zhu, and Hengliang Luo. Finding the True Crowds: User Filtering in Microblogs (**NLPCC 2016**).
 * ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma, and Linfeng Chen. Beyond Your Interests: Exploring the Information Behind User Tags (**NLPCC 2015**).
