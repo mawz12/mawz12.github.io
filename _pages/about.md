@@ -30,6 +30,24 @@ Foundations
 
 Selected Publications
 ======
+## IN THE YEAR OF 2024:
+* Junkai Li, Siyu Wang, Meng Zhang, Weitao Li, Yunghwei Lai, Xinhui Kang, ***Weizhi Ma***, Yang Liu. Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents. (arXiv)
+* Jiayin Wang, ***Weizhi Ma***, Peijie Sun, Min Zhang, Jian-Yun Nie. Understanding User Experience in Large Language Model Interactions. (arXiv)
+* Jiayin Wang, Fengran Mo, ***Weizhi Ma***, Peijie Sun, Min Zhang, Jian-Yun Nie. A User-Centric Benchmark for Evaluating Large Language Models. (arXiv)
+* Jiayu Li, Aixin Sun, ***Weizhi Ma***, Peijie Sun, Min Zhang. Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations. (arXiv)
+* Zhiyu He, Jiayu Li, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma. Introducing EEG Analyses to Help Personal Music Preference Prediction. (arXiv)
+* Weitao Li, Junkai Li, Weizhi Ma, Yang Liu. Citation-Enhanced Generation for LLM-based Chatbot. (**ACL 2024**)
+* Shenghao Yang, ***Weizhi Ma***, Peijie Sun, Qingyao Ai, Yiqun Liu, Mingchen Cai, Min Zhang. Sequential Recommendation with Latent Relations based on Large Language Model. (**SIGIR 2024**)
+* Hanyu Li, ***Weizhi Ma***, Peijie Sun, Jiayu Li, Cunxiang Yin, Yancheng He, Guoqiang Xu, Min Zhang, Shaoping Ma. Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation. (**SIGIR 2024**)
+* Yuanqing Yu, Chongming Gao, Jiawei Chen, Heng Tang, Yuefeng Sun, Qian Chen, ***Weizhi Ma***, Min Zhang. EasyRL4Rec: A User-Friendly Code Library for Reinforcement Learning Based Recommender Systems. (**SIGIR 2024 Resource**)
+* Zhefan Wang, Yuanqing Yu, Wendi Zheng, ***Weizhi Ma***, Min Zhang. Multi-Agent Collaboration Framework for Recommender Systems. (**SIGIR 2024 Demo**)
+* Zhefan Wang, ***Weizhi Ma***, Min Zhang. To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models. (DASFAA 2024)
+* Jiayu Li, Peijie Sun, Chumeng Jiang, ***Weizhi Ma***, Qingyao Ai, Min Zhang. A Situation-aware Enhancer for Personalized Recommendation. (**DASFAA 2024**)
+* Shenghao Yang, ***Weizhi Ma***, Peijie Sun, Min Zhang, Qingyao Ai, Yiqun Liu, Mingchen Cai. Common Sense Enhanced Knowledge-based Recommendation with Large Language Model. (**DASSFA 2024**)
+* Jimmy Lin, Junkai Li, Jiasi Gao, ***Weizhi Ma***, Yang Liu. Jointly Modeling Spatio-Temporal Features of Tactile Signals for Action Classification. (**AAAI 2024**)
+* Yifan Wang, Peijie Sun, ***Weizhi Ma***, Min Zhang, Yuan Zhang, Peng Jiang, Shaoping Ma. Intersectional Two-sided Fairness in Recommendation. (**TheWebConf 2024**)
+* Vadim Grigorev, Jiayu Li, ***Weizhi Ma***, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang. SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals. (**CHIIR 2024**)
+
 ## IN THE YEAR OF 2023:
 * Shenghao Yang, Chenyang Wang, Yankai Liu, Kangping Xu, ***Weizhi Ma***, Yiqun Liu, Min Zhang, Haitao Zeng, Junlan Feng, Chao Deng. Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation. (**ICDM 2023**)
 * Chenyang Wang, Yankai Liu, Yuanqing Yu, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Haitao Zeng, Junlan Feng, Chao Deng. Two-sided Calibration for Quality-aware Responsible Recommendation. (**RecSys 2023**)
