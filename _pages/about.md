@@ -36,6 +36,7 @@ Selected Publications
 * Jiayin Wang, Fengran Mo, ***Weizhi Ma***, Peijie Sun, Min Zhang, Jian-Yun Nie. A User-Centric Benchmark for Evaluating Large Language Models. (arXiv)
 * Jiayu Li, Aixin Sun, ***Weizhi Ma***, Peijie Sun, Min Zhang. Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations. (arXiv)
 * Zhiyu He, Jiayu Li, ***Weizhi Ma***, Min Zhang, Yiqun Liu, Shaoping Ma. Introducing EEG Analyses to Help Personal Music Preference Prediction. (arXiv)
+* ***Weizhi Ma***, Bin Sheng, Yang Liu, Jing Qian, Xiaoxuan Liu, Jingshan Li, David Ouyang, Haibo Wang, Atanas G. Atanasov, Pearse A Keane, Wei-Ying Ma, Yih-Chung Tham, Tien Yin Wong. Evolution of Future Medical AI Models: From Task-Specific, Disease Centric to Universal Health. (**NEJM AI Perspective Paper**)
 * Weitao Li, Junkai Li, Weizhi Ma, Yang Liu. Citation-Enhanced Generation for LLM-based Chatbot. (**ACL 2024**)
 * Shenghao Yang, ***Weizhi Ma***, Peijie Sun, Qingyao Ai, Yiqun Liu, Mingchen Cai, Min Zhang. Sequential Recommendation with Latent Relations based on Large Language Model. (**SIGIR 2024**)
 * Hanyu Li, ***Weizhi Ma***, Peijie Sun, Jiayu Li, Cunxiang Yin, Yancheng He, Guoqiang Xu, Min Zhang, Shaoping Ma. Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation. (**SIGIR 2024**)
